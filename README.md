@@ -1,4 +1,4 @@
-![ScreenShoot Apps](docs/image/banner.png?raw=true)
+![ScreenShoot Apps](docs/image/banner-organization-page.png?raw=true)
 
 ## Connect Frogobox Inc
 - Email - frogoboxdev@gmail.com
